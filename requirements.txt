@@ -1,0 +1,13 @@
+keras==3.7.0
+matplotlib==3.8.2
+numpy==2.3.2
+pandas==2.3.1
+scikit_learn==1.7.1
+datetime==5.0
+yfinance==0.2.0
+math==3.6.0
+IPython==8.0.0
+sklearn==0.0
+tensorflow==2.12.0
+torch==2.0.0
+lightgbm==4.0.0
